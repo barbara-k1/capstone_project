@@ -1,4 +1,4 @@
-# Berkeley Haas - Professional Certificate in Machine Learning & Artificial Intelligence
+## Berkeley Haas - Professional Certificate in Machine Learning & Artificial Intelligence
 # Capstone Project: Peripheral Markers for Angiogenesis and Brain Aging
 
 **Barbara Klein**
